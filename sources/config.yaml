@@ -1,5 +1,5 @@
 sources:
-    - MyFont.glyphs
-familyName: My Font
+    - HKBlock.glyphs
+familyName: HK Block
 outputDir: "../fonts"
 
